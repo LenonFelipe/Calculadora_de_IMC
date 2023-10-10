@@ -1,7 +1,7 @@
 # Calculadora_de_IMC
-*Primeiro projeto com react Native
+* Primeiro projeto com react Native
 
-COMO RODAR O APP 
+# Como rodar o app 
 * Primeiro clone esse repositório
 * em seguida, no terminal dê o npm start
   
